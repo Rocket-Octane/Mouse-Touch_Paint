@@ -1,0 +1,30 @@
+.bg {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 45px;
+    color: red;
+}
+
+#myCanvas {
+    border-width: 10px;
+    border-color: grey;
+    border-style: ridge;
+    background-color: white;
+}
+input{
+    margin-right: 60px;
+}
+body{
+    text-align: center;
+}
+button{
+    background-color: lightblue;
+    width: 200px;
+    border-radius: 50px;
+    border-style: dashed;
+    border-color: black;
+}
